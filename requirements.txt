@@ -1,0 +1,14 @@
+# CSC110 Fall 2020: Python libraries we'll be using in this project
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta
+
+# Processing the data
+sklearn
+matplotlib
+
+# Graphics and data visualization
+plotly
+pygame==2.0.0.dev10
